@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="mensaje_iguales">Son iguales</string>
+    <string name="mensaje_no_iguales">No son iguales</string>
+    <string name="texto_boton_comparar">Comparar</string>
+    <string name="hint_text1">Ingresar Texto 1</string>
+    <string name="hint_text2">Ingresar Texto 2</string>
+    <string name="text_comparar">Comparar</string>
+    <string name="text_Resultado">Resultado</string>
+    <string name="text_contentDescription">Resultado de la comparación</string>/>
+</resources>
